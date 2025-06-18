@@ -77,5 +77,5 @@ This application is useful for:
 
 ## 👨‍💻 Author
 
-Prachi Bhardwaj  
+Prachi  
 For collaboration or queries, feel free to connect!
